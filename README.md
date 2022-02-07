@@ -6,8 +6,8 @@
 * Mockk and jUnit 5
 * Jetpack Compose
 * MVVM
-* Room for DataBase
-* Retrofit2
+* Room for Persistance
+* Retrofit2 for Restfull
 * Navigation
 * Paging3
 * Koin for Service Locator
