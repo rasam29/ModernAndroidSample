@@ -7,7 +7,7 @@
 * Jetpack Compose
 * MVVM
 * Room for DataBase
-* retrofit2
+* Retrofit2
 * Navigation
 * Paging3
 * Koin for Service Locator
