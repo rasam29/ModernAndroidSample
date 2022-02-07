@@ -1,7 +1,7 @@
 # ModernAndroidSample
 
 ### listing some technologies and tools that have used:
-Live Data
+* Live Data
 coroutines
 unit test
 compose
