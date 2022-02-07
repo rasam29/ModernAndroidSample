@@ -1,8 +1,8 @@
 # ModernAndroidSample
 
-### listing some technologies and tools that have used:
+### Listing technologies and tools that have used:
 * Live Data
-* coroutines
+* Kotlin Coroutines
 * Mockk and jUnit 5
 * Jetpack Compose
 * MVVM
@@ -11,3 +11,10 @@
 * Navigation
 * Paging3
 * Koin for Service Locator
+* Dynamic Feature module
+
+
+### Application Flows
+* Splash
+* SignUp
+* Main Page Endless List
